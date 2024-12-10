@@ -3,7 +3,7 @@
 title: Qiang Li
 
 # Name pronunciation (optional)
-name_pronunciation: Chyang Lee
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Qiang
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Qiang Li is a research fellow of artificial intelligence at the Emory. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
