@@ -3,7 +3,7 @@
 title: 李强
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chyang Lee
 
 # Full name (for SEO)
 first_name: Qiang
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: postdoctoral research fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
