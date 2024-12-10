@@ -38,8 +38,8 @@ header:
       text: "Qiang Li"
 
 # Site footer
-footer:
-  copyright:
+#footer:
+copyright:
     notice: '© {year} Qiang Li'
 
 
