@@ -41,7 +41,11 @@ header:
 footer:
 copyright:
     notice: '© {year} Qiang Li'
-
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: false
+      allow_commercial: false
 
 # Localization
 locale:
