@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 李强
+title: Qiang Li
 
 # Name pronunciation (optional)
 name_pronunciation: Chyang Lee
