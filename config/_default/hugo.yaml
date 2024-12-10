@@ -6,7 +6,7 @@
 # Website name
 title: Qiang Li personal page
 # Website URL
-baseURL: 'https://qiangli.netlify.app/'
+baseURL: #'https://qiangli.netlify.app/'
 
 ############################
 ## LANGUAGE
